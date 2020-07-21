@@ -1,0 +1,12 @@
+font-family: 'Grenze Gotisch', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Red Rose', cursive;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Orbitron', sans-serif;
+
+
+=======================================
+
+<link href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@400;500;600&family=Josefin+Sans&family=Red+Rose&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Orbitron&display=swap" rel="stylesheet">
